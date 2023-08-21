@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+print("This is commit 5")<<<<<<< HEAD
 print("This is commit 1")
 =======
 print("This is commit 3")
